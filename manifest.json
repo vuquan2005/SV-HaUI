@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "EOP",
+    "name": "SV HaUI",
     "version": "2.0",
     "description": " A extension for HaUI Student",
     "permissions": [
